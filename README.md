@@ -1,7 +1,8 @@
-# 👋 Hello, I'm Richardson Cliford CIMY
+# 👨‍💻 Richardson Cliford CIMY 
 
-🎓 **Computer Science & Management Student** at [ESIH Haiti](https://www.esih.edu/)  
-💻 **Tech Enthusiast** | 🌱 **Continuous Learner** | 👥 **Team Player**
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=black&width=435&lines=🎓+Computer+Science+Student+&+Management+Student;💻+Tech+Enthusiast;🌱+Continuous+Learner;Web+Developer;👥+Team+Player;Open-Source+Contributor" alt="Typing SVG" />
+</div>
 
 ---
 
@@ -42,13 +43,7 @@ I'm a passionate IT student with strong adaptability skills and a keen interest 
 
 [![Visits](https://komarev.com/ghpvc/?username=cimyrichardson&label=Profile%20Views&color=blueviolet&style=flat)](https://github.com/cimyrichardson)
 
-# 👨‍💻 Richardson Clifford CIMY 
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5D3FD3&width=435&lines=Computer+Science+Student;Tech+Enthusiast;Web+Developer;Open-Source+Contributor" alt="Typing SVG" />
-</div>
-
----
 
 ## 📊 GitHub Stats
 
