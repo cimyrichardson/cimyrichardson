@@ -13,11 +13,6 @@ I'm a passionate IT student with strong adaptability skills and a keen interest 
 
 
 
----
-
-
-
-
 ## 🛠 Tech Stack
 
 <div align="center">
