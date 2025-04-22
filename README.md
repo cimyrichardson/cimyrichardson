@@ -18,7 +18,6 @@ I'm a passionate IT student with strong adaptability skills and a keen interest 
 💡 Interests: Web Dev, Open Source, Tech Education
 🎨 Hobbies: Graphic Design, Writing, Teaching
 
----
 
 ## 🛠 Tech Stack
 
