@@ -16,36 +16,21 @@ I'm a passionate IT student with strong adaptability skills and a keen interest 
 
 ## 🛠 Tech Stack
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; max-width: 200px; margin: auto;">
-  <div style="flex: 1 1 20%; display: flex; justify-content: center;">
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  </div>
-  <div style="flex: 1 1 20%; display: flex; justify-content: center;">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  </div>
-  <div style="flex: 1 1 20%; display: flex; justify-content: center;">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  </div>
-  <div style="flex: 1 1 20%; display: flex; justify-content: center;">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  </div>
-  <div style="flex: 1 1 45%; display: flex; justify-content: center;">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  </div>
-  <div style="flex: 1 1 20%; display: flex; justify-content: center;">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  </div>
-  <div style="flex: 1 1 20%; display: flex; justify-content: center;">
-    <img src="https://img.shields.io/badge/Networking-007ACC?style=for-the-badge&logo=cisco&logoColor=white" />
-  </div>
-</div>
-
+<div align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking-007ACC?style=for-the-badge&logo=cisco&logoColor=white" />
+</div> placce ces elements en deux colonnes
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=radical" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
