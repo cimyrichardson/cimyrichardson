@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Richardson Clifford CIMY
+# 👋 Hello, I'm Richardson Cliford CIMY
 
 🎓 **Computer Science & Management Student** at [ESIH Haiti](https://www.esih.edu/)  
 💻 **Tech Enthusiast** | 🌱 **Continuous Learner** | 👥 **Team Player**
@@ -40,4 +40,4 @@ I'm a passionate IT student with strong adaptability skills and a keen interest 
 
 ---
 
-[![Visits](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blueviolet&style=flat)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Visits](https://komarev.com/ghpvc/?username=cimyrichardson&label=Profile%20Views&color=blueviolet&style=flat)](https://github.com/YOUR_GITHUB_USERNAME)
