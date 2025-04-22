@@ -40,11 +40,6 @@ I'm a passionate IT student with strong adaptability skills and a keen interest 
 <br/>
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=cimyrichardson&theme=light_repocard&no-frame=false&no-bg=false&margin-w=4)
-
-<br/>
----
 ## 🏆 Featured Projects
 
 <div align="center">
