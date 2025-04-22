@@ -62,12 +62,3 @@ I'm a passionate IT student with strong adaptability skills and a keen interest 
 </div>
 
 ---
-
-## 🌟 About Me
-
-```text
-🎓 Computer Science & Management Student @ ESIH Haiti
-🌍 Based in Haiti
-📚 Currently learning: Advanced Algorithms
-💡 Interests: Web Dev, Open Source, Tech Education
-🎨 Hobbies: Graphic Design, Writing, Teaching
