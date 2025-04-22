@@ -11,13 +11,9 @@
 I'm a passionate IT student with strong adaptability skills and a keen interest in emerging technologies. I enjoy tackling challenges that help me grow both technically and professionally. When I'm not coding, you'll find me contributing to educational projects, designing graphics, or mentoring peers in tech.
 <br/><br/>
 
-<p align="center">
-  <a href="https://richardsonclifordcimy.netlify.app">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=netlify&text=richardsonclifordcimy.netlify.app&animation=spin&fill=black&textfill=5D3FD3">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-  </a>
-</p>
+<a href="https://richardsonclifordcimy.netlify.app">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=5D3FD3&width=435&lines=Visit+my+personal+website;richardsonclifordcimy.netlify.app" alt="Website Typing SVG" />
+</a>
 <br/><br/>
 
 ---
