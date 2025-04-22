@@ -1,27 +1,43 @@
-# 💫 About Me:
-Richardson Clifford CIMY est un étudiant dynamique et passionné en Sciences Informatiques et Gestion à l'École Supérieure d'Infotronique d'Haïti (ESIH). Doté d'une forte capacité d'adaptation et d'un esprit d'équipe, il allie compétences techniques (développement web, C/C++, réseaux) et qualités managériales, comme en témoigne son rôle de coordonnateur du club Binary Brilliance. Son engagement dans des projets variés (écriture, traduction, graphisme) et son désir d'innovation font de lui un profil polyvalent, prêt à relever de nouveaux défis dans le domaine technologique.
+# 👋 Hello, I'm Richardson Clifford CIMY
 
-
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:richardsonclifordcimy@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=cimyrichardson&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=cimyrichardson&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cimyrichardson&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=cimyrichardson&theme=default_repocard&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=cimyrichardson&limit=5&theme=dark&combine_all_yearly_contributions=true)
+🎓 **Computer Science & Management Student** at [ESIH Haiti](https://www.esih.edu/)  
+💻 **Tech Enthusiast** | 🌱 **Continuous Learner** | 👥 **Team Player**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=cimyrichardson&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 About Me
+
+I'm a passionate IT student with strong adaptability skills and a keen interest in emerging technologies. I enjoy tackling challenges that help me grow both technically and professionally. When I'm not coding, you'll find me contributing to educational projects, designing graphics, or mentoring peers in tech.
+
+🔗 **Personal Website:** [richardsonclifordcimy.netlify.app](https://richardsonclifordcimy.netlify.app)
+
+---
+
+### 🛠 Technical Skills
+
+![Languages](https://img.shields.io/badge/-Languages-333333?style=flat&logo=python)
+![C/C++](https://img.shields.io/badge/C/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Web Development](https://img.shields.io/badge/Web_Development-FF5722?style=flat&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-007ACC?style=flat&logo=cisco&logoColor=white)
+
+---
+
+### 🌟 Highlights
+
+- 📚 **Author & Translator** at NABU (Level 3A/4C books, Créole/English)
+- 🎨 **Graphic Designer** for Freaky Snack Bar (Flyers design)
+- 👨‍🏫 **Former Math Teacher** at WI LEKOL program
+- 🚀 **Coordinator** of Binary Brilliance tech club
+
+---
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER_LINK)
+📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
+
+---
+
+[![Visits](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blueviolet&style=flat)](https://github.com/YOUR_GITHUB_USERNAME)
