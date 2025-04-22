@@ -1,7 +1,7 @@
 # 👨‍💻 Richardson Cliford CIMY 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=black&width=435&lines=Computer+Science+Student+&+Management+Student;Tech+Enthusiast;Continuous+Learner;Web+Developer;Team+Player;Open-Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=black&width=435&lines=Computer+Science+Student;Management+Student;Tech+Enthusiast;Continuous+Learner;Web+Developer;Team+Player;Open-Source+Contributor" alt="Typing SVG" />
 </div>
 
 ---
@@ -16,11 +16,17 @@ I'm a passionate IT student with strong adaptability skills and a keen interest 
 
 ### 🛠 Technical Skills
 
-![Languages](https://img.shields.io/badge/-Languages-333333?style=flat&logo=python)
-![C/C++](https://img.shields.io/badge/C/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Web Development](https://img.shields.io/badge/Web_Development-FF5722?style=flat&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-007ACC?style=flat&logo=cisco&logoColor=white)
+## 🛠 Tech Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking-007ACC?style=for-the-badge&logo=cisco&logoColor=white" />
+</div>
 
 ---
 
@@ -64,20 +70,6 @@ I'm a passionate IT student with strong adaptability skills and a keen interest 
   <a href="PROJECT2_LINK">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO2_NAME&theme=dracula" />
   </a>
-</div>
-
----
-
-## 🛠 Tech Stack
-
-<div align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Networking-007ACC?style=for-the-badge&logo=cisco&logoColor=white" />
 </div>
 
 ---
