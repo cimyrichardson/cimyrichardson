@@ -26,6 +26,8 @@ I'm a passionate IT student with strong adaptability skills and a keen interest 
   <img src="https://img.shields.io/badge/Networking-007ACC?style=for-the-badge&logo=cisco&logoColor=white" />
 </div> 
 
+<br/>
+
 ---
 
 ## 📊 GitHub Stats
@@ -35,9 +37,14 @@ I'm a passionate IT student with strong adaptability skills and a keen interest 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cimyrichardson&layout=compact&langs_count=8&theme=light" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cimyrichardson&theme=light" />
 </div>
-
+<br/>
 ---
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=cimyrichardson&theme=light_repocard&no-frame=false&no-bg=false&margin-w=4)
+
+<br/>
+---
 ## 🏆 Featured Projects
 
 <div align="center">
