@@ -31,9 +31,9 @@ I'm a passionate IT student with strong adaptability skills and a keen interest 
 ## 📊 GitHub Stats
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cimyrichardson&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cimyrichardson&layout=compact&langs_count=8&theme=radical" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cimyrichardson&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cimyrichardson&show_icons=true&theme=light&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cimyrichardson&layout=compact&langs_count=8&theme=light" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cimyrichardson&theme=light" />
 </div>
 
 ---
