@@ -51,15 +51,6 @@ I'm a passionate IT student with strong adaptability skills and a keen interest 
 <br/>
 ---
 
-## 🏆 Featured Projects
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<div align="center">
-  <a href="PROJECT1_LINK">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cimyrichardson&repo=REPO1_NAME&theme=dracula" />
-  </a>
-  <a href="PROJECT2_LINK">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cimyrichardson&repo=REPO2_NAME&theme=dracula" />
-  </a>
-</div>
-
----
