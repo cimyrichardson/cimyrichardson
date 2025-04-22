@@ -49,8 +49,8 @@ I'm a passionate IT student with strong adaptability skills and a keen interest 
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cimyrichardson&theme=light" />
 </div>
 <br/>
----
+
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
