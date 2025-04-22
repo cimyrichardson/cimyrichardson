@@ -12,9 +12,7 @@ I'm a passionate IT student with strong adaptability skills and a keen interest 
 
 🔗 **Personal Website:** [richardsonclifordcimy.netlify.app](https://richardsonclifordcimy.netlify.app)
 
----
-
-### 🛠 Technical Skills
+--
 
 ## 🛠 Tech Stack
 
