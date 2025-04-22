@@ -10,12 +10,6 @@
 
 I'm a passionate IT student with strong adaptability skills and a keen interest in emerging technologies. I enjoy tackling challenges that help me grow both technically and professionally. When I'm not coding, you'll find me contributing to educational projects, designing graphics, or mentoring peers in tech.
 
-# 👨‍💻 Richardson Clifford CIMY 
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5D3FD3&width=435&lines=Computer+Science+Student;Tech+Enthusiast;Web+Developer;Open-Source+Contributor" alt="Typing SVG" />
-</div>
-
 ---
 
 ## 📊 GitHub Stats
