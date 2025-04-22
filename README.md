@@ -1,5 +1,5 @@
 # 💫 About Me:
-vRichardson Clifford CIMY est un étudiant dynamique et passionné en Sciences Informatiques et Gestion à l'École Supérieure d'Infotronique d'Haïti (ESIH). Doté d'une forte capacité d'adaptation et d'un esprit d'équipe, il allie compétences techniques (développement web, C/C++, réseaux) et qualités managériales, comme en témoigne son rôle de coordonnateur du club Binary Brilliance. Son engagement dans des projets variés (écriture, traduction, graphisme) et son désir d'innovation font de lui un profil polyvalent, prêt à relever de nouveaux défis dans le domaine technologique.
+Richardson Clifford CIMY est un étudiant dynamique et passionné en Sciences Informatiques et Gestion à l'École Supérieure d'Infotronique d'Haïti (ESIH). Doté d'une forte capacité d'adaptation et d'un esprit d'équipe, il allie compétences techniques (développement web, C/C++, réseaux) et qualités managériales, comme en témoigne son rôle de coordonnateur du club Binary Brilliance. Son engagement dans des projets variés (écriture, traduction, graphisme) et son désir d'innovation font de lui un profil polyvalent, prêt à relever de nouveaux défis dans le domaine technologique.
 
 
 ## 🌐 Socials:
