@@ -10,6 +10,14 @@
 
 I'm a passionate IT student with strong adaptability skills and a keen interest in emerging technologies. I enjoy tackling challenges that help me grow both technically and professionally. When I'm not coding, you'll find me contributing to educational projects, designing graphics, or mentoring peers in tech.
 
+```text
+
+🎓 Computer Science & Management Student @ ESIH Haiti
+🌍 Based in Haiti
+📚 Currently learning: Advanced Algorithms
+💡 Interests: Web Dev, Open Source, Tech Education
+🎨 Hobbies: Graphic Design, Writing, Teaching
+
 🔗 **Personal Website:** [richardsonclifordcimy.netlify.app](https://richardsonclifordcimy.netlify.app)
 
 --
@@ -47,7 +55,7 @@ I'm a passionate IT student with strong adaptability skills and a keen interest 
 
 [![Visits](https://komarev.com/ghpvc/?username=cimyrichardson&label=Profile%20Views&color=blueviolet&style=flat)](https://github.com/cimyrichardson)
 
-
+---
 
 ## 📊 GitHub Stats
 
@@ -71,12 +79,3 @@ I'm a passionate IT student with strong adaptability skills and a keen interest 
 </div>
 
 ---
-
-## 🌟 About Me
-
-```text
-🎓 Computer Science & Management Student @ ESIH Haiti
-🌍 Based in Haiti
-📚 Currently learning: Advanced Algorithms
-💡 Interests: Web Dev, Open Source, Tech Education
-🎨 Hobbies: Graphic Design, Writing, Teaching
