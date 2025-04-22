@@ -10,7 +10,8 @@
 
 I'm a passionate IT student with strong adaptability skills and a keen interest in emerging technologies. I enjoy tackling challenges that help me grow both technically and professionally. When I'm not coding, you'll find me contributing to educational projects, designing graphics, or mentoring peers in tech.
 <br/><br/>
-🔗 **Personal Website:** [richardsonclifordcimy.netlify.app](https://richardsonclifordcimy.netlify.app)
+
+[![Website](https://img.shields.io/badge/Personal_Website-FF4088?style=for-the-badge&logo=netlify&logoColor=white&labelColor=101010)](https://richardsonclifordcimy.netlify.app)
 <br/><br/>
 
 ---
