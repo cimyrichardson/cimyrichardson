@@ -42,10 +42,10 @@ I'm a passionate IT student with strong adaptability skills and a keen interest 
 
 <div align="center">
   <a href="PROJECT1_LINK">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO1_NAME&theme=dracula" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cimyrichardson&repo=REPO1_NAME&theme=dracula" />
   </a>
   <a href="PROJECT2_LINK">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO2_NAME&theme=dracula" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cimyrichardson&repo=REPO2_NAME&theme=dracula" />
   </a>
 </div>
 
