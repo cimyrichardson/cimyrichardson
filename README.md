@@ -55,6 +55,6 @@ I'm a passionate IT student with strong adaptability skills and a keen interest 
 <br/>
 
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
