@@ -1,4 +1,4 @@
-# 👨‍💻 Richardson Cliford CIMY 
+# Richardson Cliford CIMY 
 
 <div align="center">
   
@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=cimyrichardson&style=flat-square&color=8B5CF6&label=Profile+Views" alt="Profile views"/>
 </div>
 
-## 🚀 About Me
+## About Me
 
 I'm a passionate Computer Science and Management dual-degree student with strong adaptability skills and a keen interest in emerging technologies. I enjoy tackling challenges that help me grow both technically and professionally. When I'm not coding, you'll find me contributing to educational projects, designing graphics, or mentoring peers in tech.
 
@@ -24,7 +24,7 @@ I'm a passionate Computer Science and Management dual-degree student with strong
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### **Programming Languages**
 <div align="center">
@@ -101,7 +101,7 @@ I'm a passionate Computer Science and Management dual-degree student with strong
 
 ---
 -->
-## 📫 Connect With Me
+## Connect With Me
 
 <div align="center">
   
@@ -152,22 +152,22 @@ I'm a passionate Computer Science and Management dual-degree student with strong
 ---
 -->
 
-## 🎯 Currently Working On
+## Currently Working On
 
-- 🔭 I'm currently working on **A Web Development Project**
-- 🌱 I'm currently learning **React Native & DevOps**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 🤔 I'm looking for help with **Cloud Architecture**
-- 💬 Ask me about **Web Development, Java, or Networking**
-- 📫 How to reach me: **richardsonclifordcimy@gmail.com**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I love combining technical skills with management principles!**
+-  I'm currently working on **A Web Development Project**
+-  I'm currently learning **React Native & DevOps**
+-  I'm looking to collaborate on **Open Source Projects**
+-  I'm looking for help with **Cloud Architecture**
+-  Ask me about **Web Development, Java, or Networking**
+-  How to reach me: **richardsonclifordcimy@gmail.com**
+-  Pronouns: **He/Him**
+-  Fun fact: **I love combining technical skills with management principles!**
 
 ---
 
 <div align="center">
   
-  ### ✍️ Random Developer Quote
+  ###  Random Developer Quote
   
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
   
