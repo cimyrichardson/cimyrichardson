@@ -1,8 +1,8 @@
-# Richardson Cliford CIMY 
+# Richardson Cliford Cimy
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&height=50&lines=Computer+Science+Student;Management+Student;Full+Stack+Developer;Tech+Enthusiast;Continuous+Learner;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&height=50&lines=Computer+Science+Graduate;Management+Student;Full+Stack+Developer;Tech+Entrepreneur;Continuous+Learner;Open+Source+Contributor" alt="Typing SVG" />
   
 </div>
 
@@ -12,12 +12,11 @@
 
 ## About Me
 
-I'm a passionate Computer Science and Management dual-degree student with strong adaptability skills and a keen interest in emerging technologies. I enjoy tackling challenges that help me grow both technically and professionally. When I'm not coding, you'll find me contributing to educational projects, designing graphics, or mentoring peers in tech.
+I'm a Computer Science graduate (Licence en Science Informatique) from **École Supérieure d'Infotronique d'Haïti (ESIH)**, currently pursuing a dual degree in Management. I build full-stack web applications that solve real problems — from ed-tech platforms helping Haitian students prepare for the Baccalauréat, to independent news publishing. I enjoy tackling challenges that push me to grow both technically and professionally, and outside of coding you'll find me designing graphics or mentoring peers in tech.
 
 <div align="center">
   
   [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://richardsonclifordcimy.netlify.app)
-  <!--[![Resume](https://img.shields.io/badge/📄_Resume-4285F4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](YOUR_RESUME_LINK)-->
   [![Blog](https://img.shields.io/badge/✍️_Blog-FF6B6B?style=for-the-badge&logo=medium&logoColor=white)](https://richardsonclifordcimy.netlify.app/blog)
   
 </div>
@@ -56,8 +55,22 @@ I'm a passionate Computer Science and Management dual-degree student with strong
 </div>
 
 ---
-<!--
-## 📊 GitHub Analytics
+
+## Featured Projects
+
+<div align="center">
+
+| Project | Description | Link |
+|---------|-------------|------|
+| **Portfolio** | Personal developer & designer portfolio showcasing my work, skills, and blog | [Visit](https://richardsonclifordcimy.netlify.app) |
+| **SEED Haïti** | Ed-tech platform helping Haitian NS4/Philo students prepare for the Baccalauréat with AI-personalized study plans, offline access, and progress tracking | [Visit](https://seedhaiti.org) |
+| **L'Écho Haïtien** | Independent news platform covering Haitian news, culture, politics, and analysis | [Visit](https://lechohaitien.com) |
+
+</div>
+
+---
+
+## GitHub Analytics
 
 <div align="center">
   
@@ -81,7 +94,7 @@ I'm a passionate Computer Science and Management dual-degree student with strong
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
   
@@ -91,16 +104,6 @@ I'm a passionate Computer Science and Management dual-degree student with strong
 
 ---
 
-## 📈 Contribution Metrics
-
-<div align="center">
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cimyrichardson&theme=vue" width="100%" />
-  
-</div>
-
----
--->
 ## Connect With Me
 
 <div align="center">
@@ -116,45 +119,14 @@ I'm a passionate Computer Science and Management dual-degree student with strong
   <a href="https://github.com/cimyrichardson" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <!--
-  <a href="https://twitter.com/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  -->
-  <!--
-  <a href="https://dev.to/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
-  </a> -->
   
 </div>
 
 ---
-<!--
-## ✨ Featured Projects
-
-<div align="center">
-  
-  | Project | Description | Tech Stack |
-  |---------|-------------|------------|
-  | **[Project 1](link)** | Brief description of your project | React, Node.js, MongoDB |
-  | **[Project 2](link)** | Brief description of your project | PHP, MySQL, JavaScript |
-  | **[Project 3](link)** | Brief description of your project | Java, Spring Boot, PostgreSQL |
-  
-</div>
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-<!--
----
--->
 
 ## Currently Working On
 
--  I'm currently working on **A Web Development Project**
+-  I'm currently working on **SEED Haïti**, an ed-tech platform for Baccalauréat prep
 -  I'm currently learning **React Native & DevOps**
 -  I'm looking to collaborate on **Open Source Projects**
 -  I'm looking for help with **Cloud Architecture**
@@ -167,19 +139,16 @@ I'm a passionate Computer Science and Management dual-degree student with strong
 
 <div align="center">
   
-  ###  Random Developer Quote
+  ### Random Developer Quote
   
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
   
 </div>
 
 ---
-<!--
+
 <div align="center">
   
-  ![Visitor Count](https://profile-counter.glitch.me/cimyrichardson/count.svg)
-  
-  <sub>Made with ❤️ by Richardson Cliford CIMY</sub>
+  <sub>Made with by Richardson Cliford Cimy</sub>
   
 </div>
--->
