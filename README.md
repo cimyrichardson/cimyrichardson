@@ -1,154 +1,92 @@
+<div align="center">
+
 # Richardson Cliford Cimy
 
-<div align="center">
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&height=50&lines=Computer+Science+Graduate;Management+Student;Full+Stack+Developer;Tech+Entrepreneur;Continuous+Learner;Open+Source+Contributor" alt="Typing SVG" />
-  
-</div>
+**Full-Stack Developer** · Computer Science Graduate, ESIH · Port-au-Prince, Haiti
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=cimyrichardson&style=flat-square&color=8B5CF6&label=Profile+Views" alt="Profile views"/>
-</div>
-
-## About Me
-
-I'm a Computer Science graduate (Licence en Science Informatique) from **École Supérieure d'Infotronique d'Haïti (ESIH)**, currently pursuing a dual degree in Management. I build full-stack web applications that solve real problems — from ed-tech platforms helping Haitian students prepare for the Baccalauréat, to independent news publishing. I enjoy tackling challenges that push me to grow both technically and professionally, and outside of coding you'll find me designing graphics or mentoring peers in tech.
-
-<div align="center">
-  
-  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://richardsonclifordcimy.netlify.app)
-  [![Blog](https://img.shields.io/badge/✍️_Blog-FF6B6B?style=for-the-badge&logo=medium&logoColor=white)](https://richardsonclifordcimy.netlify.app/blog)
-  
-</div>
-
----
-
-## Tech Stack
-
-### **Programming Languages**
-<div align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</div>
-
-### **Web Development**
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</div>
-
-### **Tools & Platforms**
-<div align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Networking-007ACC?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking" />
-</div>
-
----
-
-## Featured Projects
-
-<div align="center">
-
-| Project | Description | Link |
-|---------|-------------|------|
-| **Portfolio** | Personal developer & designer portfolio showcasing my work, skills, and blog | [Visit](https://richardsonclifordcimy.netlify.app) |
-| **SEED Haïti** | Ed-tech platform helping Haitian NS4/Philo students prepare for the Baccalauréat with AI-personalized study plans, offline access, and progress tracking | [Visit](https://seedhaiti.org) |
-| **L'Écho Haïtien** | Independent news platform covering Haitian news, culture, politics, and analysis | [Visit](https://lechohaitien.com) |
+[![Portfolio](https://img.shields.io/badge/Portfolio-141414?style=flat-square&logo=netlify&logoColor=white)](https://richardsonclifordcimy.netlify.app)
+[![Blog](https://img.shields.io/badge/Blog-141414?style=flat-square&logo=medium&logoColor=white)](https://richardsonclifordcimy.netlify.app/blog)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-141414?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richardson-cliford-cimy-1b0708277/)
+[![Email](https://img.shields.io/badge/Email-141414?style=flat-square&logo=gmail&logoColor=white)](mailto:richardsonclifordcimy@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-141414?style=flat-square&logo=github&logoColor=white)](https://github.com/cimyrichardson)
 
 </div>
 
----
+<br>
 
-## GitHub Analytics
+## About
+
+I hold a Licence en Science Informatique from École Supérieure d'Infotronique d'Haïti (ESIH) and I'm currently completing a dual degree in Management. I design and build full-stack web applications — from ed-tech platforms to independent media — with a focus on solving real problems for people in Haiti.
+
+<br>
+
+## Projects
+
+### [SEED Haïti](https://seedhaiti.org)
+Ed-tech platform helping NS4 and Philo students prepare for the Baccalauréat, with AI-personalized study plans, offline access, and progress tracking.
+
+![WordPress](https://img.shields.io/badge/WordPress-141414?style=flat-square&logo=wordpress&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-141414?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-141414?style=flat-square&logo=javascript&logoColor=white)
+
+### [L'Écho Haïtien](https://lechohaitien.com)
+Independent news platform covering Haitian news, culture, politics, and analysis.
+
+![React](https://img.shields.io/badge/React-141414?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-141414?style=flat-square&logo=nodedotjs&logoColor=white)
+
+### [Portfolio](https://richardsonclifordcimy.netlify.app)
+Personal developer portfolio and blog, built and hosted on Netlify.
+
+![React](https://img.shields.io/badge/React-141414?style=flat-square&logo=react&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-141414?style=flat-square&logo=netlify&logoColor=white)
+
+<br>
+
+## Skills
+
+**Languages**
+![C](https://img.shields.io/badge/C-141414?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-141414?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-141414?style=flat-square&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-141414?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-141414?style=flat-square&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-141414?style=flat-square&logo=python&logoColor=white)
+
+**Web**
+![HTML5](https://img.shields.io/badge/HTML5-141414?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-141414?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-141414?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-141414?style=flat-square&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-141414?style=flat-square&logo=mysql&logoColor=white)
+
+**Tools**
+![Git](https://img.shields.io/badge/Git-141414?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-141414?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-141414?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-141414?style=flat-square&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-141414?style=flat-square&logo=vercel&logoColor=white)
+
+<br>
+
+## GitHub Stats
 
 <div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cimyrichardson&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=30,0d0d0d,1a1a2e&title_color=fff&text_color=fff&icon_color=8B5CF6" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cimyrichardson&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=30,1a1a2e,0d0d0d&title_color=fff&text_color=fff" />
-  
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=cimyrichardson&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&title_color=141414&icon_color=141414&text_color=333333" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cimyrichardson&layout=compact&langs_count=8&theme=default&hide_border=true&title_color=141414&text_color=333333" />
 </div>
 
-<div align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cimyrichardson&theme=radical&hide_border=true&background=0d0d0d&stroke=8B5CF6&ring=8B5CF6&fire=FF6B6B&currStreakLabel=FFF" />
-  
-</div>
+<br>
+
+## Currently
+
+- Building **SEED Haïti**, an ed-tech platform for Baccalauréat prep
+- Learning **React Native** and **DevOps**
+- Open to collaborating on **open source projects**
+- Interested in **cloud architecture**
+
+<br>
 
 <div align="center">
-  
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cimyrichardson&theme=react-dark&bg_color=0d1117&hide_border=true&color=8B5CF6&line=6366F1&point=FFFFFF)
-  
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=cimyrichardson&theme=onedark&row=2&column=3&no-frame=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-  
-</div>
-
----
-
-## Connect With Me
-
-<div align="center">
-  
-  <a href="https://www.linkedin.com/in/richardson-cliford-cimy-1b0708277/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  
-  <a href="mailto:richardsonclifordcimy@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  
-  <a href="https://github.com/cimyrichardson" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  
-</div>
-
----
-
-## Currently Working On
-
--  I'm currently working on **SEED Haïti**, an ed-tech platform for Baccalauréat prep
--  I'm currently learning **React Native & DevOps**
--  I'm looking to collaborate on **Open Source Projects**
--  I'm looking for help with **Cloud Architecture**
--  Ask me about **Web Development, Java, or Networking**
--  How to reach me: **richardsonclifordcimy@gmail.com**
--  Pronouns: **He/Him**
--  Fun fact: **I love combining technical skills with management principles!**
-
----
-
-<div align="center">
-  
-  ### Random Developer Quote
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-  
-</div>
-
----
-
-<div align="center">
-  
-  <sub>Made with by Richardson Cliford Cimy</sub>
-  
+  <sub>richardsonclifordcimy@gmail.com</sub>
 </div>
